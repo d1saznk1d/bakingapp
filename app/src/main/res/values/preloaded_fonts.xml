@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/annie_use_your_telescope</item>
+        <item>@font/architects_daughter</item>
+        <item>@font/artifika</item>
+        <item>@font/biorhyme</item>
+        <item>@font/gloria_hallelujah</item>
+        <item>@font/henny_penny</item>
+        <item>@font/indie_flower</item>
+        <item>@font/inknut_antiqua_light</item>
+        <item>@font/kite_one</item>
+        <item>@font/source_serif_pro</item>
+    </array>
+</resources>
